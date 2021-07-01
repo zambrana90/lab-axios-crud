@@ -2,3588 +2,4481 @@
   "pokemonsFirstGen": [
     {
       "name": "bulbasaur",
+      "active": false,
       "id": 1
     },
     {
       "name": "ivysaur",
+      "active": false,
       "id": 2
     },
     {
       "name": "venusaur",
+      "active": false,
       "id": 3
     },
     {
       "name": "charmander",
+      "active": false,
       "id": 4
     },
     {
       "name": "charmeleon",
+      "active": false,
       "id": 5
     },
     {
       "name": "charizard",
+      "active": false,
       "id": 6
     },
     {
       "name": "squirtle",
+      "active": false,
       "id": 7
     },
     {
       "name": "wartortle",
+      "active": false,
       "id": 8
     },
     {
       "name": "blastoise",
+      "active": false,
       "id": 9
     },
     {
       "name": "caterpie",
+      "active": false,
       "id": 10
     },
     {
       "name": "metapod",
+      "active": false,
       "id": 11
     },
     {
       "name": "butterfree",
+      "active": false,
       "id": 12
     },
     {
       "name": "weedle",
+      "active": false,
       "id": 13
     },
     {
       "name": "kakuna",
+      "active": false,
       "id": 14
     },
     {
       "name": "beedrill",
+      "active": false,
       "id": 15
     },
     {
       "name": "pidgey",
+      "active": false,
       "id": 16
     },
     {
       "name": "pidgeotto",
+      "active": false,
       "id": 17
     },
     {
       "name": "pidgeot",
+      "active": false,
       "id": 18
     },
     {
       "name": "rattata",
+      "active": false,
       "id": 19
     },
     {
       "name": "raticate",
+      "active": false,
       "id": 20
     },
     {
       "name": "spearow",
+      "active": false,
       "id": 21
     },
     {
       "name": "fearow",
+      "active": false,
       "id": 22
     },
     {
       "name": "ekans",
+      "active": false,
       "id": 23
     },
     {
       "name": "arbok",
+      "active": false,
       "id": 24
     },
     {
       "name": "pikachu",
+      "active": false,
       "id": 25
     },
     {
       "name": "raichu",
+      "active": false,
       "id": 26
     },
     {
       "name": "sandshrew",
+      "active": false,
       "id": 27
     },
     {
       "name": "sandslash",
+      "active": false,
       "id": 28
     },
     {
       "name": "nidoran-f",
+      "active": false,
       "id": 29
     },
     {
       "name": "nidorina",
+      "active": false,
       "id": 30
     },
     {
       "name": "nidoqueen",
+      "active": false,
       "id": 31
     },
     {
       "name": "nidoran-m",
+      "active": false,
       "id": 32
     },
     {
       "name": "nidorino",
+      "active": false,
       "id": 33
     },
     {
       "name": "nidoking",
+      "active": false,
       "id": 34
     },
     {
       "name": "clefairy",
+      "active": false,
       "id": 35
     },
     {
       "name": "clefable",
+      "active": false,
       "id": 36
     },
     {
       "name": "vulpix",
+      "active": false,
       "id": 37
     },
     {
       "name": "ninetales",
+      "active": false,
       "id": 38
     },
     {
       "name": "jigglypuff",
+      "active": false,
       "id": 39
     },
     {
       "name": "wigglytuff",
+      "active": false,
       "id": 40
     },
     {
       "name": "zubat",
+      "active": false,
       "id": 41
     },
     {
       "name": "golbat",
+      "active": false,
       "id": 42
     },
     {
       "name": "oddish",
+      "active": false,
       "id": 43
     },
     {
       "name": "gloom",
+      "active": false,
       "id": 44
     },
     {
       "name": "vileplume",
+      "active": false,
       "id": 45
     },
     {
       "name": "paras",
+      "active": false,
       "id": 46
     },
     {
       "name": "parasect",
+      "active": false,
       "id": 47
     },
     {
       "name": "venonat",
+      "active": false,
       "id": 48
     },
     {
       "name": "venomoth",
+      "active": false,
       "id": 49
     },
     {
       "name": "diglett",
+      "active": false,
       "id": 50
     },
     {
       "name": "dugtrio",
+      "active": false,
       "id": 51
     },
     {
       "name": "meowth",
+      "active": false,
       "id": 52
     },
     {
       "name": "persian",
+      "active": false,
       "id": 53
     },
     {
       "name": "psyduck",
+      "active": false,
       "id": 54
     },
     {
       "name": "golduck",
+      "active": false,
       "id": 55
     },
     {
       "name": "mankey",
+      "active": false,
       "id": 56
     },
     {
       "name": "primeape",
+      "active": false,
       "id": 57
     },
     {
       "name": "growlithe",
+      "active": false,
       "id": 58
     },
     {
       "name": "arcanine",
+      "active": false,
       "id": 59
     },
     {
       "name": "poliwag",
+      "active": false,
       "id": 60
     },
     {
       "name": "poliwhirl",
+      "active": false,
       "id": 61
     },
     {
       "name": "poliwrath",
+      "active": false,
       "id": 62
     },
     {
       "name": "abra",
+      "active": false,
       "id": 63
     },
     {
       "name": "kadabra",
+      "active": false,
       "id": 64
     },
     {
       "name": "alakazam",
+      "active": false,
       "id": 65
     },
     {
       "name": "machop",
+      "active": false,
       "id": 66
     },
     {
       "name": "machoke",
+      "active": false,
       "id": 67
     },
     {
       "name": "machamp",
+      "active": false,
       "id": 68
     },
     {
       "name": "bellsprout",
+      "active": false,
       "id": 69
     },
     {
       "name": "weepinbell",
+      "active": false,
       "id": 70
     },
     {
       "name": "victreebel",
+      "active": false,
       "id": 71
     },
     {
       "name": "tentacool",
+      "active": false,
       "id": 72
     },
     {
       "name": "tentacruel",
+      "active": false,
       "id": 73
     },
     {
       "name": "geodude",
+      "active": false,
       "id": 74
     },
     {
       "name": "graveler",
+      "active": false,
       "id": 75
     },
     {
       "name": "golem",
+      "active": false,
       "id": 76
     },
     {
       "name": "ponyta",
+      "active": false,
       "id": 77
     },
     {
       "name": "rapidash",
+      "active": false,
       "id": 78
     },
     {
       "name": "slowpoke",
+      "active": false,
       "id": 79
     },
     {
       "name": "slowbro",
+      "active": false,
       "id": 80
     },
     {
       "name": "magnemite",
+      "active": false,
       "id": 81
     },
     {
       "name": "magneton",
+      "active": false,
       "id": 82
     },
     {
       "name": "farfetchd",
+      "active": false,
       "id": 83
     },
     {
       "name": "doduo",
+      "active": false,
       "id": 84
     },
     {
       "name": "dodrio",
+      "active": false,
       "id": 85
     },
     {
       "name": "seel",
+      "active": false,
       "id": 86
     },
     {
       "name": "dewgong",
+      "active": false,
       "id": 87
     },
     {
       "name": "grimer",
+      "active": false,
       "id": 88
     },
     {
       "name": "muk",
+      "active": false,
       "id": 89
     },
     {
       "name": "shellder",
+      "active": false,
       "id": 90
     },
     {
       "name": "cloyster",
+      "active": false,
       "id": 91
     },
     {
       "name": "gastly",
+      "active": false,
       "id": 92
     },
     {
       "name": "haunter",
+      "active": false,
       "id": 93
     },
     {
       "name": "gengar",
+      "active": false,
       "id": 94
     },
     {
       "name": "onix",
+      "active": false,
       "id": 95
     },
     {
       "name": "drowzee",
+      "active": false,
       "id": 96
     },
     {
       "name": "hypno",
+      "active": false,
       "id": 97
     },
     {
       "name": "krabby",
+      "active": false,
       "id": 98
     },
     {
       "name": "kingler",
+      "active": false,
       "id": 99
     },
     {
       "name": "voltorb",
+      "active": false,
       "id": 100
     },
     {
       "name": "electrode",
+      "active": false,
       "id": 101
     },
     {
       "name": "exeggcute",
+      "active": false,
       "id": 102
     },
     {
       "name": "exeggutor",
+      "active": false,
       "id": 103
     },
     {
       "name": "cubone",
+      "active": false,
       "id": 104
     },
     {
       "name": "marowak",
+      "active": false,
       "id": 105
     },
     {
       "name": "hitmonlee",
+      "active": false,
       "id": 106
     },
     {
       "name": "hitmonchan",
+      "active": false,
       "id": 107
     },
     {
       "name": "lickitung",
+      "active": false,
       "id": 108
     },
     {
       "name": "koffing",
+      "active": false,
       "id": 109
     },
     {
       "name": "weezing",
+      "active": false,
       "id": 110
     },
     {
       "name": "rhyhorn",
+      "active": false,
       "id": 111
     },
     {
       "name": "rhydon",
+      "active": false,
       "id": 112
     },
     {
       "name": "chansey",
+      "active": false,
       "id": 113
     },
     {
       "name": "tangela",
+      "active": false,
       "id": 114
     },
     {
       "name": "kangaskhan",
+      "active": false,
       "id": 115
     },
     {
       "name": "horsea",
+      "active": false,
       "id": 116
     },
     {
       "name": "seadra",
+      "active": false,
       "id": 117
     },
     {
       "name": "goldeen",
+      "active": false,
       "id": 118
     },
     {
       "name": "seaking",
+      "active": false,
       "id": 119
     },
     {
       "name": "staryu",
+      "active": false,
       "id": 120
     },
     {
       "name": "starmie",
+      "active": false,
       "id": 121
     },
     {
       "name": "mr-mime",
+      "active": false,
       "id": 122
     },
     {
       "name": "scyther",
+      "active": false,
       "id": 123
     },
     {
       "name": "jynx",
+      "active": false,
       "id": 124
     },
     {
       "name": "electabuzz",
+      "active": false,
       "id": 125
     },
     {
       "name": "magmar",
+      "active": false,
       "id": 126
     },
     {
       "name": "pinsir",
+      "active": false,
       "id": 127
     },
     {
       "name": "tauros",
+      "active": false,
       "id": 128
     },
     {
       "name": "magikarp",
+      "active": false,
       "id": 129
     },
     {
       "name": "gyarados",
+      "active": false,
       "id": 130
     },
     {
       "name": "lapras",
+      "active": false,
       "id": 131
     },
     {
       "name": "ditto",
+      "active": false,
       "id": 132
     },
     {
       "name": "eevee",
+      "active": false,
       "id": 133
     },
     {
       "name": "vaporeon",
+      "active": false,
       "id": 134
     },
     {
       "name": "jolteon",
+      "active": false,
       "id": 135
     },
     {
       "name": "flareon",
+      "active": false,
       "id": 136
     },
     {
       "name": "porygon",
+      "active": false,
       "id": 137
     },
     {
       "name": "omanyte",
+      "active": false,
       "id": 138
     },
     {
       "name": "omastar",
+      "active": false,
       "id": 139
     },
     {
       "name": "kabuto",
+      "active": false,
       "id": 140
     },
     {
       "name": "kabutops",
+      "active": false,
       "id": 141
     },
     {
       "name": "aerodactyl",
+      "active": false,
       "id": 142
     },
     {
       "name": "snorlax",
+      "active": false,
       "id": 143
     },
     {
       "name": "articuno",
+      "active": false,
       "id": 144
     },
     {
       "name": "zapdos",
+      "active": false,
       "id": 145
     },
     {
       "name": "moltres",
+      "active": false,
       "id": 146
     },
     {
       "name": "dratini",
+      "active": false,
       "id": 147
     },
     {
       "name": "dragonair",
+      "active": false,
       "id": 148
     },
     {
       "name": "dragonite",
+      "active": false,
       "id": 149
     },
     {
       "name": "mewtwo",
+      "active": false,
       "id": 150
     },
     {
       "name": "mew",
+      "active": false,
       "id": 151
     }
   ],
   "pokemonsSecondGen": [
     {
       "name": "chikorita",
+      "active": false,
       "id": 152
     },
     {
       "name": "bayleef",
+      "active": false,
       "id": 153
     },
     {
       "name": "meganium",
+      "active": false,
       "id": 154
     },
     {
       "name": "cyndaquil",
+      "active": false,
       "id": 155
     },
     {
       "name": "quilava",
+      "active": false,
       "id": 156
     },
     {
       "name": "typhlosion",
+      "active": false,
       "id": 157
     },
     {
       "name": "totodile",
+      "active": false,
       "id": 158
     },
     {
       "name": "croconaw",
+      "active": false,
       "id": 159
     },
     {
       "name": "feraligatr",
+      "active": false,
       "id": 160
     },
     {
       "name": "sentret",
+      "active": false,
       "id": 161
     },
     {
       "name": "furret",
+      "active": false,
       "id": 162
     },
     {
       "name": "hoothoot",
+      "active": false,
       "id": 163
     },
     {
       "name": "noctowl",
+      "active": false,
       "id": 164
     },
     {
       "name": "ledyba",
+      "active": false,
       "id": 165
     },
     {
       "name": "ledian",
+      "active": false,
       "id": 166
     },
     {
       "name": "spinarak",
+      "active": false,
       "id": 167
     },
     {
       "name": "ariados",
+      "active": false,
       "id": 168
     },
     {
       "name": "crobat",
+      "active": false,
       "id": 169
     },
     {
       "name": "chinchou",
+      "active": false,
       "id": 170
     },
     {
       "name": "lanturn",
+      "active": false,
       "id": 171
     },
     {
       "name": "pichu",
+      "active": false,
       "id": 172
     },
     {
       "name": "cleffa",
+      "active": false,
       "id": 173
     },
     {
       "name": "igglybuff",
+      "active": false,
       "id": 174
     },
     {
       "name": "togepi",
+      "active": false,
       "id": 175
     },
     {
       "name": "togetic",
+      "active": false,
       "id": 176
     },
     {
       "name": "natu",
+      "active": false,
       "id": 177
     },
     {
       "name": "xatu",
+      "active": false,
       "id": 178
     },
     {
       "name": "mareep",
+      "active": false,
       "id": 179
     },
     {
       "name": "flaaffy",
+      "active": false,
       "id": 180
     },
     {
       "name": "ampharos",
+      "active": false,
       "id": 181
     },
     {
       "name": "bellossom",
+      "active": false,
       "id": 182
     },
     {
       "name": "marill",
+      "active": false,
       "id": 183
     },
     {
       "name": "azumarill",
+      "active": false,
       "id": 184
     },
     {
       "name": "sudowoodo",
+      "active": false,
       "id": 185
     },
     {
       "name": "politoed",
+      "active": false,
       "id": 186
     },
     {
       "name": "hoppip",
+      "active": false,
       "id": 187
     },
     {
       "name": "skiploom",
+      "active": false,
       "id": 188
     },
     {
       "name": "jumpluff",
+      "active": false,
       "id": 189
     },
     {
       "name": "aipom",
+      "active": false,
       "id": 190
     },
     {
       "name": "sunkern",
+      "active": false,
       "id": 191
     },
     {
       "name": "sunflora",
+      "active": false,
       "id": 192
     },
     {
       "name": "yanma",
+      "active": false,
       "id": 193
     },
     {
       "name": "wooper",
+      "active": false,
       "id": 194
     },
     {
       "name": "quagsire",
+      "active": false,
       "id": 195
     },
     {
       "name": "espeon",
+      "active": false,
       "id": 196
     },
     {
       "name": "umbreon",
+      "active": false,
       "id": 197
     },
     {
       "name": "murkrow",
+      "active": false,
       "id": 198
     },
     {
       "name": "slowking",
+      "active": false,
       "id": 199
     },
     {
       "name": "misdreavus",
+      "active": false,
       "id": 200
     },
     {
       "name": "unown",
+      "active": false,
       "id": 201
     },
     {
       "name": "wobbuffet",
+      "active": false,
       "id": 202
     },
     {
       "name": "girafarig",
+      "active": false,
       "id": 203
     },
     {
       "name": "pineco",
+      "active": false,
       "id": 204
     },
     {
       "name": "forretress",
+      "active": false,
       "id": 205
     },
     {
       "name": "dunsparce",
+      "active": false,
       "id": 206
     },
     {
       "name": "gligar",
+      "active": false,
       "id": 207
     },
     {
       "name": "steelix",
+      "active": false,
       "id": 208
     },
     {
       "name": "snubbull",
+      "active": false,
       "id": 209
     },
     {
       "name": "granbull",
+      "active": false,
       "id": 210
     },
     {
       "name": "qwilfish",
+      "active": false,
       "id": 211
     },
     {
       "name": "scizor",
+      "active": false,
       "id": 212
     },
     {
       "name": "shuckle",
+      "active": false,
       "id": 213
     },
     {
       "name": "heracross",
+      "active": false,
       "id": 214
     },
     {
       "name": "sneasel",
+      "active": false,
       "id": 215
     },
     {
       "name": "teddiursa",
+      "active": false,
       "id": 216
     },
     {
       "name": "ursaring",
+      "active": false,
       "id": 217
     },
     {
       "name": "slugma",
+      "active": false,
       "id": 218
     },
     {
       "name": "magcargo",
+      "active": false,
       "id": 219
     },
     {
       "name": "swinub",
+      "active": false,
       "id": 220
     },
     {
       "name": "piloswine",
+      "active": false,
       "id": 221
     },
     {
       "name": "corsola",
+      "active": false,
       "id": 222
     },
     {
       "name": "remoraid",
+      "active": false,
       "id": 223
     },
     {
       "name": "octillery",
+      "active": false,
       "id": 224
     },
     {
       "name": "delibird",
+      "active": false,
       "id": 225
     },
     {
       "name": "mantine",
+      "active": false,
       "id": 226
     },
     {
       "name": "skarmory",
+      "active": false,
       "id": 227
     },
     {
       "name": "houndour",
+      "active": false,
       "id": 228
     },
     {
       "name": "houndoom",
+      "active": false,
       "id": 229
     },
     {
       "name": "kingdra",
+      "active": false,
       "id": 230
     },
     {
       "name": "phanpy",
+      "active": false,
       "id": 231
     },
     {
       "name": "donphan",
+      "active": false,
       "id": 232
     },
     {
       "name": "porygon2",
+      "active": false,
       "id": 233
     },
     {
       "name": "stantler",
+      "active": false,
       "id": 234
     },
     {
       "name": "smeargle",
+      "active": false,
       "id": 235
     },
     {
       "name": "tyrogue",
+      "active": false,
       "id": 236
     },
     {
       "name": "hitmontop",
+      "active": false,
       "id": 237
     },
     {
       "name": "smoochum",
+      "active": false,
       "id": 238
     },
     {
       "name": "elekid",
+      "active": false,
       "id": 239
     },
     {
       "name": "magby",
+      "active": false,
       "id": 240
     },
     {
       "name": "miltank",
+      "active": false,
       "id": 241
     },
     {
       "name": "blissey",
+      "active": false,
       "id": 242
     },
     {
       "name": "raikou",
+      "active": false,
       "id": 243
     },
     {
       "name": "entei",
+      "active": false,
       "id": 244
     },
     {
       "name": "suicune",
+      "active": false,
       "id": 245
     },
     {
       "name": "larvitar",
+      "active": false,
       "id": 246
     },
     {
       "name": "pupitar",
+      "active": false,
       "id": 247
     },
     {
       "name": "tyranitar",
+      "active": false,
       "id": 248
     },
     {
       "name": "lugia",
+      "active": false,
       "id": 249
     },
     {
       "name": "ho-oh",
+      "active": false,
       "id": 250
     },
     {
       "name": "celebi",
+      "active": false,
       "id": 251
     }
   ],
   "pokemonsThirdGen": [
     {
       "name": "treecko",
+      "active": false,
       "id": 252
     },
     {
       "name": "grovyle",
+      "active": false,
       "id": 253
     },
     {
       "name": "sceptile",
+      "active": false,
       "id": 254
     },
     {
       "name": "torchic",
+      "active": false,
       "id": 255
     },
     {
       "name": "combusken",
+      "active": false,
       "id": 256
     },
     {
       "name": "blaziken",
+      "active": false,
       "id": 257
     },
     {
       "name": "mudkip",
+      "active": false,
       "id": 258
     },
     {
       "name": "marshtomp",
+      "active": false,
       "id": 259
     },
     {
       "name": "swampert",
+      "active": false,
       "id": 260
     },
     {
       "name": "poochyena",
+      "active": false,
       "id": 261
     },
     {
       "name": "mightyena",
+      "active": false,
       "id": 262
     },
     {
       "name": "zigzagoon",
+      "active": false,
       "id": 263
     },
     {
       "name": "linoone",
+      "active": false,
       "id": 264
     },
     {
       "name": "wurmple",
+      "active": false,
       "id": 265
     },
     {
       "name": "silcoon",
+      "active": false,
       "id": 266
     },
     {
       "name": "beautifly",
+      "active": false,
       "id": 267
     },
     {
       "name": "cascoon",
+      "active": false,
       "id": 268
     },
     {
       "name": "dustox",
+      "active": false,
       "id": 269
     },
     {
       "name": "lotad",
+      "active": false,
       "id": 270
     },
     {
       "name": "lombre",
+      "active": false,
       "id": 271
     },
     {
       "name": "ludicolo",
+      "active": false,
       "id": 272
     },
     {
       "name": "seedot",
+      "active": false,
       "id": 273
     },
     {
       "name": "nuzleaf",
+      "active": false,
       "id": 274
     },
     {
       "name": "shiftry",
+      "active": false,
       "id": 275
     },
     {
       "name": "taillow",
+      "active": false,
       "id": 276
     },
     {
       "name": "swellow",
+      "active": false,
       "id": 277
     },
     {
       "name": "wingull",
+      "active": false,
       "id": 278
     },
     {
       "name": "pelipper",
+      "active": false,
       "id": 279
     },
     {
       "name": "ralts",
+      "active": false,
       "id": 280
     },
     {
       "name": "kirlia",
+      "active": false,
       "id": 281
     },
     {
       "name": "gardevoir",
+      "active": false,
       "id": 282
     },
     {
       "name": "surskit",
+      "active": false,
       "id": 283
     },
     {
       "name": "masquerain",
+      "active": false,
       "id": 284
     },
     {
       "name": "shroomish",
+      "active": false,
       "id": 285
     },
     {
       "name": "breloom",
+      "active": false,
       "id": 286
     },
     {
       "name": "slakoth",
+      "active": false,
       "id": 287
     },
     {
       "name": "vigoroth",
+      "active": false,
       "id": 288
     },
     {
       "name": "slaking",
+      "active": false,
       "id": 289
     },
     {
       "name": "nincada",
+      "active": false,
       "id": 290
     },
     {
       "name": "ninjask",
+      "active": false,
       "id": 291
     },
     {
       "name": "shedinja",
+      "active": false,
       "id": 292
     },
     {
       "name": "whismur",
+      "active": false,
       "id": 293
     },
     {
       "name": "loudred",
+      "active": false,
       "id": 294
     },
     {
       "name": "exploud",
+      "active": false,
       "id": 295
     },
     {
       "name": "makuhita",
+      "active": false,
       "id": 296
     },
     {
       "name": "hariyama",
+      "active": false,
       "id": 297
     },
     {
       "name": "azurill",
+      "active": false,
       "id": 298
     },
     {
       "name": "nosepass",
+      "active": false,
       "id": 299
     },
     {
       "name": "skitty",
+      "active": false,
       "id": 300
     },
     {
       "name": "delcatty",
+      "active": false,
       "id": 301
     },
     {
       "name": "sableye",
+      "active": false,
       "id": 302
     },
     {
       "name": "mawile",
+      "active": false,
       "id": 303
     },
     {
       "name": "aron",
+      "active": false,
       "id": 304
     },
     {
       "name": "lairon",
+      "active": false,
       "id": 305
     },
     {
       "name": "aggron",
+      "active": false,
       "id": 306
     },
     {
       "name": "meditite",
+      "active": false,
       "id": 307
     },
     {
       "name": "medicham",
+      "active": false,
       "id": 308
     },
     {
       "name": "electrike",
+      "active": false,
       "id": 309
     },
     {
       "name": "manectric",
+      "active": false,
       "id": 310
     },
     {
       "name": "plusle",
+      "active": false,
       "id": 311
     },
     {
       "name": "minun",
+      "active": false,
       "id": 312
     },
     {
       "name": "volbeat",
+      "active": false,
       "id": 313
     },
     {
       "name": "illumise",
+      "active": false,
       "id": 314
     },
     {
       "name": "roselia",
+      "active": false,
       "id": 315
     },
     {
       "name": "gulpin",
+      "active": false,
       "id": 316
     },
     {
       "name": "swalot",
+      "active": false,
       "id": 317
     },
     {
       "name": "carvanha",
+      "active": false,
       "id": 318
     },
     {
       "name": "sharpedo",
+      "active": false,
       "id": 319
     },
     {
       "name": "wailmer",
+      "active": false,
       "id": 320
     },
     {
       "name": "wailord",
+      "active": false,
       "id": 321
     },
     {
       "name": "numel",
+      "active": false,
       "id": 322
     },
     {
       "name": "camerupt",
+      "active": false,
       "id": 323
     },
     {
       "name": "torkoal",
+      "active": false,
       "id": 324
     },
     {
       "name": "spoink",
+      "active": false,
       "id": 325
     },
     {
       "name": "grumpig",
+      "active": false,
       "id": 326
     },
     {
       "name": "spinda",
+      "active": false,
       "id": 327
     },
     {
       "name": "trapinch",
+      "active": false,
       "id": 328
     },
     {
       "name": "vibrava",
+      "active": false,
       "id": 329
     },
     {
       "name": "flygon",
+      "active": false,
       "id": 330
     },
     {
       "name": "cacnea",
+      "active": false,
       "id": 331
     },
     {
       "name": "cacturne",
+      "active": false,
       "id": 332
     },
     {
       "name": "swablu",
+      "active": false,
       "id": 333
     },
     {
       "name": "altaria",
+      "active": false,
       "id": 334
     },
     {
       "name": "zangoose",
+      "active": false,
       "id": 335
     },
     {
       "name": "seviper",
+      "active": false,
       "id": 336
     },
     {
       "name": "lunatone",
+      "active": false,
       "id": 337
     },
     {
       "name": "solrock",
+      "active": false,
       "id": 338
     },
     {
       "name": "barboach",
+      "active": false,
       "id": 339
     },
     {
       "name": "whiscash",
+      "active": false,
       "id": 340
     },
     {
       "name": "corphish",
+      "active": false,
       "id": 341
     },
     {
       "name": "crawdaunt",
+      "active": false,
       "id": 342
     },
     {
       "name": "baltoy",
+      "active": false,
       "id": 343
     },
     {
       "name": "claydol",
+      "active": false,
       "id": 344
     },
     {
       "name": "lileep",
+      "active": false,
       "id": 345
     },
     {
       "name": "cradily",
+      "active": false,
       "id": 346
     },
     {
       "name": "anorith",
+      "active": false,
       "id": 347
     },
     {
       "name": "armaldo",
+      "active": false,
       "id": 348
     },
     {
       "name": "feebas",
+      "active": false,
       "id": 349
     },
     {
       "name": "milotic",
+      "active": false,
       "id": 350
     },
     {
       "name": "castform",
+      "active": false,
       "id": 351
     },
     {
       "name": "kecleon",
+      "active": false,
       "id": 352
     },
     {
       "name": "shuppet",
+      "active": false,
       "id": 353
     },
     {
       "name": "banette",
+      "active": false,
       "id": 354
     },
     {
       "name": "duskull",
+      "active": false,
       "id": 355
     },
     {
       "name": "dusclops",
+      "active": false,
       "id": 356
     },
     {
       "name": "tropius",
+      "active": false,
       "id": 357
     },
     {
       "name": "chimecho",
+      "active": false,
       "id": 358
     },
     {
       "name": "absol",
+      "active": false,
       "id": 359
     },
     {
       "name": "wynaut",
+      "active": false,
       "id": 360
     },
     {
       "name": "snorunt",
+      "active": false,
       "id": 361
     },
     {
       "name": "glalie",
+      "active": false,
       "id": 362
     },
     {
       "name": "spheal",
+      "active": false,
       "id": 363
     },
     {
       "name": "sealeo",
+      "active": false,
       "id": 364
     },
     {
       "name": "walrein",
+      "active": false,
       "id": 365
     },
     {
       "name": "clamperl",
+      "active": false,
       "id": 366
     },
     {
       "name": "huntail",
+      "active": false,
       "id": 367
     },
     {
       "name": "gorebyss",
+      "active": false,
       "id": 368
     },
     {
       "name": "relicanth",
+      "active": false,
       "id": 369
     },
     {
       "name": "luvdisc",
+      "active": false,
       "id": 370
     },
     {
       "name": "bagon",
+      "active": false,
       "id": 371
     },
     {
       "name": "shelgon",
+      "active": false,
       "id": 372
     },
     {
       "name": "salamence",
+      "active": false,
       "id": 373
     },
     {
       "name": "beldum",
+      "active": false,
       "id": 374
     },
     {
       "name": "metang",
+      "active": false,
       "id": 375
     },
     {
       "name": "metagross",
+      "active": false,
       "id": 376
     },
     {
       "name": "regirock",
+      "active": false,
       "id": 377
     },
     {
       "name": "regice",
+      "active": false,
       "id": 378
     },
     {
       "name": "registeel",
+      "active": false,
       "id": 379
     },
     {
       "name": "latias",
+      "active": false,
       "id": 380
     },
     {
       "name": "latios",
+      "active": false,
       "id": 381
     },
     {
       "name": "kyogre",
+      "active": false,
       "id": 382
     },
     {
       "name": "groudon",
+      "active": false,
       "id": 383
     },
     {
       "name": "rayquaza",
+      "active": false,
       "id": 384
     },
     {
       "name": "jirachi",
+      "active": false,
       "id": 385
     },
     {
       "name": "deoxys-normal",
+      "active": false,
       "id": 386
     }
   ],
   "pokemonsFourthGen": [
     {
       "name": "turtwig",
+      "active": false,
       "id": 387
     },
     {
       "name": "grotle",
+      "active": false,
       "id": 388
     },
     {
       "name": "torterra",
+      "active": false,
       "id": 389
     },
     {
       "name": "chimchar",
+      "active": false,
       "id": 390
     },
     {
       "name": "monferno",
+      "active": false,
       "id": 391
     },
     {
       "name": "infernape",
+      "active": false,
       "id": 392
     },
     {
       "name": "piplup",
+      "active": false,
       "id": 393
     },
     {
       "name": "prinplup",
+      "active": false,
       "id": 394
     },
     {
       "name": "empoleon",
+      "active": false,
       "id": 395
     },
     {
       "name": "starly",
+      "active": false,
       "id": 396
     },
     {
       "name": "staravia",
+      "active": false,
       "id": 397
     },
     {
       "name": "staraptor",
+      "active": false,
       "id": 398
     },
     {
       "name": "bidoof",
+      "active": false,
       "id": 399
     },
     {
       "name": "bibarel",
+      "active": false,
       "id": 400
     },
     {
       "name": "kricketot",
+      "active": false,
       "id": 401
     },
     {
       "name": "kricketune",
+      "active": false,
       "id": 402
     },
     {
       "name": "shinx",
+      "active": false,
       "id": 403
     },
     {
       "name": "luxio",
+      "active": false,
       "id": 404
     },
     {
       "name": "luxray",
+      "active": false,
       "id": 405
     },
     {
       "name": "budew",
+      "active": false,
       "id": 406
     },
     {
       "name": "roserade",
+      "active": false,
       "id": 407
     },
     {
       "name": "cranidos",
+      "active": false,
       "id": 408
     },
     {
       "name": "rampardos",
+      "active": false,
       "id": 409
     },
     {
       "name": "shieldon",
+      "active": false,
       "id": 410
     },
     {
       "name": "bastiodon",
+      "active": false,
       "id": 411
     },
     {
       "name": "burmy",
+      "active": false,
       "id": 412
     },
     {
       "name": "wormadam-plant",
+      "active": false,
       "id": 413
     },
     {
       "name": "mothim",
+      "active": false,
       "id": 414
     },
     {
       "name": "combee",
+      "active": false,
       "id": 415
     },
     {
       "name": "vespiquen",
+      "active": false,
       "id": 416
     },
     {
       "name": "pachirisu",
+      "active": false,
       "id": 417
     },
     {
       "name": "buizel",
+      "active": false,
       "id": 418
     },
     {
       "name": "floatzel",
+      "active": false,
       "id": 419
     },
     {
       "name": "cherubi",
+      "active": false,
       "id": 420
     },
     {
       "name": "cherrim",
+      "active": false,
       "id": 421
     },
     {
       "name": "shellos",
+      "active": false,
       "id": 422
     },
     {
       "name": "gastrodon",
+      "active": false,
       "id": 423
     },
     {
       "name": "ambipom",
+      "active": false,
       "id": 424
     },
     {
       "name": "drifloon",
+      "active": false,
       "id": 425
     },
     {
       "name": "drifblim",
+      "active": false,
       "id": 426
     },
     {
       "name": "buneary",
+      "active": false,
       "id": 427
     },
     {
       "name": "lopunny",
+      "active": false,
       "id": 428
     },
     {
       "name": "mismagius",
+      "active": false,
       "id": 429
     },
     {
       "name": "honchkrow",
+      "active": false,
       "id": 430
     },
     {
       "name": "glameow",
+      "active": false,
       "id": 431
     },
     {
       "name": "purugly",
+      "active": false,
       "id": 432
     },
     {
       "name": "chingling",
+      "active": false,
       "id": 433
     },
     {
       "name": "stunky",
+      "active": false,
       "id": 434
     },
     {
       "name": "skuntank",
+      "active": false,
       "id": 435
     },
     {
       "name": "bronzor",
+      "active": false,
       "id": 436
     },
     {
       "name": "bronzong",
+      "active": false,
       "id": 437
     },
     {
       "name": "bonsly",
+      "active": false,
       "id": 438
     },
     {
       "name": "mime-jr",
+      "active": false,
       "id": 439
     },
     {
       "name": "happiny",
+      "active": false,
       "id": 440
     },
     {
       "name": "chatot",
+      "active": false,
       "id": 441
     },
     {
       "name": "spiritomb",
+      "active": false,
       "id": 442
     },
     {
       "name": "gible",
+      "active": false,
       "id": 443
     },
     {
       "name": "gabite",
+      "active": false,
       "id": 444
     },
     {
       "name": "garchomp",
+      "active": false,
       "id": 445
     },
     {
       "name": "munchlax",
+      "active": false,
       "id": 446
     },
     {
       "name": "riolu",
+      "active": false,
       "id": 447
     },
     {
       "name": "lucario",
+      "active": false,
       "id": 448
     },
     {
       "name": "hippopotas",
+      "active": false,
       "id": 449
     },
     {
       "name": "hippowdon",
+      "active": false,
       "id": 450
     },
     {
       "name": "skorupi",
+      "active": false,
       "id": 451
     },
     {
       "name": "drapion",
+      "active": false,
       "id": 452
     },
     {
       "name": "croagunk",
+      "active": false,
       "id": 453
     },
     {
       "name": "toxicroak",
+      "active": false,
       "id": 454
     },
     {
       "name": "carnivine",
+      "active": false,
       "id": 455
     },
     {
       "name": "finneon",
+      "active": false,
       "id": 456
     },
     {
       "name": "lumineon",
+      "active": false,
       "id": 457
     },
     {
       "name": "mantyke",
+      "active": false,
       "id": 458
     },
     {
       "name": "snover",
+      "active": false,
       "id": 459
     },
     {
       "name": "abomasnow",
+      "active": false,
       "id": 460
     },
     {
       "name": "weavile",
+      "active": false,
       "id": 461
     },
     {
       "name": "magnezone",
+      "active": false,
       "id": 462
     },
     {
       "name": "lickilicky",
+      "active": false,
       "id": 463
     },
     {
       "name": "rhyperior",
+      "active": false,
       "id": 464
     },
     {
       "name": "tangrowth",
+      "active": false,
       "id": 465
     },
     {
       "name": "electivire",
+      "active": false,
       "id": 466
     },
     {
       "name": "magmortar",
+      "active": false,
       "id": 467
     },
     {
       "name": "togekiss",
+      "active": false,
       "id": 468
     },
     {
       "name": "yanmega",
+      "active": false,
       "id": 469
     },
     {
       "name": "leafeon",
+      "active": false,
       "id": 470
     },
     {
       "name": "glaceon",
+      "active": false,
       "id": 471
     },
     {
       "name": "gliscor",
+      "active": false,
       "id": 472
     },
     {
       "name": "mamoswine",
+      "active": false,
       "id": 473
     },
     {
       "name": "porygon-z",
+      "active": false,
       "id": 474
     },
     {
       "name": "gallade",
+      "active": false,
       "id": 475
     },
     {
       "name": "probopass",
+      "active": false,
       "id": 476
     },
     {
       "name": "dusknoir",
+      "active": false,
       "id": 477
     },
     {
       "name": "froslass",
+      "active": false,
       "id": 478
     },
     {
       "name": "rotom",
+      "active": false,
       "id": 479
     },
     {
       "name": "uxie",
+      "active": false,
       "id": 480
     },
     {
       "name": "mesprit",
+      "active": false,
       "id": 481
     },
     {
       "name": "azelf",
+      "active": false,
       "id": 482
     },
     {
       "name": "dialga",
+      "active": false,
       "id": 483
     },
     {
       "name": "palkia",
+      "active": false,
       "id": 484
     },
     {
       "name": "heatran",
+      "active": false,
       "id": 485
     },
     {
       "name": "regigigas",
+      "active": false,
       "id": 486
     },
     {
       "name": "giratina-altered",
+      "active": false,
       "id": 487
     },
     {
       "name": "cresselia",
+      "active": false,
       "id": 488
     },
     {
       "name": "phione",
+      "active": false,
       "id": 489
     },
     {
       "name": "manaphy",
+      "active": false,
       "id": 490
     },
     {
       "name": "darkrai",
+      "active": false,
       "id": 491
     },
     {
       "name": "shaymin-land",
+      "active": false,
       "id": 492
     },
     {
       "name": "arceus",
+      "active": false,
       "id": 493
     }
   ],
   "pokemonsFifthGen": [
     {
       "name": "victini",
+      "active": false,
       "id": 494
     },
     {
       "name": "snivy",
+      "active": false,
       "id": 495
     },
     {
       "name": "servine",
+      "active": false,
       "id": 496
     },
     {
       "name": "serperior",
+      "active": false,
       "id": 497
     },
     {
       "name": "tepig",
+      "active": false,
       "id": 498
     },
     {
       "name": "pignite",
+      "active": false,
       "id": 499
     },
     {
       "name": "emboar",
+      "active": false,
       "id": 500
     },
     {
       "name": "oshawott",
+      "active": false,
       "id": 501
     },
     {
       "name": "dewott",
+      "active": false,
       "id": 502
     },
     {
       "name": "samurott",
+      "active": false,
       "id": 503
     },
     {
       "name": "patrat",
+      "active": false,
       "id": 504
     },
     {
       "name": "watchog",
+      "active": false,
       "id": 505
     },
     {
       "name": "lillipup",
+      "active": false,
       "id": 506
     },
     {
       "name": "herdier",
+      "active": false,
       "id": 507
     },
     {
       "name": "stoutland",
+      "active": false,
       "id": 508
     },
     {
       "name": "purrloin",
+      "active": false,
       "id": 509
     },
     {
       "name": "liepard",
+      "active": false,
       "id": 510
     },
     {
       "name": "pansage",
+      "active": false,
       "id": 511
     },
     {
       "name": "simisage",
+      "active": false,
       "id": 512
     },
     {
       "name": "pansear",
+      "active": false,
       "id": 513
     },
     {
       "name": "simisear",
+      "active": false,
       "id": 514
     },
     {
       "name": "panpour",
+      "active": false,
       "id": 515
     },
     {
       "name": "simipour",
+      "active": false,
       "id": 516
     },
     {
       "name": "munna",
+      "active": false,
       "id": 517
     },
     {
       "name": "musharna",
+      "active": false,
       "id": 518
     },
     {
       "name": "pidove",
+      "active": false,
       "id": 519
     },
     {
       "name": "tranquill",
+      "active": false,
       "id": 520
     },
     {
       "name": "unfezant",
+      "active": false,
       "id": 521
     },
     {
       "name": "blitzle",
+      "active": false,
       "id": 522
     },
     {
       "name": "zebstrika",
+      "active": false,
       "id": 523
     },
     {
       "name": "roggenrola",
+      "active": false,
       "id": 524
     },
     {
       "name": "boldore",
+      "active": false,
       "id": 525
     },
     {
       "name": "gigalith",
+      "active": false,
       "id": 526
     },
     {
       "name": "woobat",
+      "active": false,
       "id": 527
     },
     {
       "name": "swoobat",
+      "active": false,
       "id": 528
     },
     {
       "name": "drilbur",
+      "active": false,
       "id": 529
     },
     {
       "name": "excadrill",
+      "active": false,
       "id": 530
     },
     {
       "name": "audino",
+      "active": false,
       "id": 531
     },
     {
       "name": "timburr",
+      "active": false,
       "id": 532
     },
     {
       "name": "gurdurr",
+      "active": false,
       "id": 533
     },
     {
       "name": "conkeldurr",
+      "active": false,
       "id": 534
     },
     {
       "name": "tympole",
+      "active": false,
       "id": 535
     },
     {
       "name": "palpitoad",
+      "active": false,
       "id": 536
     },
     {
       "name": "seismitoad",
+      "active": false,
       "id": 537
     },
     {
       "name": "throh",
+      "active": false,
       "id": 538
     },
     {
       "name": "sawk",
+      "active": false,
       "id": 539
     },
     {
       "name": "sewaddle",
+      "active": false,
       "id": 540
     },
     {
       "name": "swadloon",
+      "active": false,
       "id": 541
     },
     {
       "name": "leavanny",
+      "active": false,
       "id": 542
     },
     {
       "name": "venipede",
+      "active": false,
       "id": 543
     },
     {
       "name": "whirlipede",
+      "active": false,
       "id": 544
     },
     {
       "name": "scolipede",
+      "active": false,
       "id": 545
     },
     {
       "name": "cottonee",
+      "active": false,
       "id": 546
     },
     {
       "name": "whimsicott",
+      "active": false,
       "id": 547
     },
     {
       "name": "petilil",
+      "active": false,
       "id": 548
     },
     {
       "name": "lilligant",
+      "active": false,
       "id": 549
     },
     {
       "name": "basculin-red-striped",
+      "active": false,
       "id": 550
     },
     {
       "name": "sandile",
+      "active": false,
       "id": 551
     },
     {
       "name": "krokorok",
+      "active": false,
       "id": 552
     },
     {
       "name": "krookodile",
+      "active": false,
       "id": 553
     },
     {
       "name": "darumaka",
+      "active": false,
       "id": 554
     },
     {
       "name": "darmanitan-standard",
+      "active": false,
       "id": 555
     },
     {
       "name": "maractus",
+      "active": false,
       "id": 556
     },
     {
       "name": "dwebble",
+      "active": false,
       "id": 557
     },
     {
       "name": "crustle",
+      "active": false,
       "id": 558
     },
     {
       "name": "scraggy",
+      "active": false,
       "id": 559
     },
     {
       "name": "scrafty",
+      "active": false,
       "id": 560
     },
     {
       "name": "sigilyph",
+      "active": false,
       "id": 561
     },
     {
       "name": "yamask",
+      "active": false,
       "id": 562
     },
     {
       "name": "cofagrigus",
+      "active": false,
       "id": 563
     },
     {
       "name": "tirtouga",
+      "active": false,
       "id": 564
     },
     {
       "name": "carracosta",
+      "active": false,
       "id": 565
     },
     {
       "name": "archen",
+      "active": false,
       "id": 566
     },
     {
       "name": "archeops",
+      "active": false,
       "id": 567
     },
     {
       "name": "trubbish",
+      "active": false,
       "id": 568
     },
     {
       "name": "garbodor",
+      "active": false,
       "id": 569
     },
     {
       "name": "zorua",
+      "active": false,
       "id": 570
     },
     {
       "name": "zoroark",
+      "active": false,
       "id": 571
     },
     {
       "name": "minccino",
+      "active": false,
       "id": 572
     },
     {
       "name": "cinccino",
+      "active": false,
       "id": 573
     },
     {
       "name": "gothita",
+      "active": false,
       "id": 574
     },
     {
       "name": "gothorita",
+      "active": false,
       "id": 575
     },
     {
       "name": "gothitelle",
+      "active": false,
       "id": 576
     },
     {
       "name": "solosis",
+      "active": false,
       "id": 577
     },
     {
       "name": "duosion",
+      "active": false,
       "id": 578
     },
     {
       "name": "reuniclus",
+      "active": false,
       "id": 579
     },
     {
       "name": "ducklett",
+      "active": false,
       "id": 580
     },
     {
       "name": "swanna",
+      "active": false,
       "id": 581
     },
     {
       "name": "vanillite",
+      "active": false,
       "id": 582
     },
     {
       "name": "vanillish",
+      "active": false,
       "id": 583
     },
     {
       "name": "vanilluxe",
+      "active": false,
       "id": 584
     },
     {
       "name": "deerling",
+      "active": false,
       "id": 585
     },
     {
       "name": "sawsbuck",
+      "active": false,
       "id": 586
     },
     {
       "name": "emolga",
+      "active": false,
       "id": 587
     },
     {
       "name": "karrablast",
+      "active": false,
       "id": 588
     },
     {
       "name": "escavalier",
+      "active": false,
       "id": 589
     },
     {
       "name": "foongus",
+      "active": false,
       "id": 590
     },
     {
       "name": "amoonguss",
+      "active": false,
       "id": 591
     },
     {
       "name": "frillish",
+      "active": false,
       "id": 592
     },
     {
       "name": "jellicent",
+      "active": false,
       "id": 593
     },
     {
       "name": "alomomola",
+      "active": false,
       "id": 594
     },
     {
       "name": "joltik",
+      "active": false,
       "id": 595
     },
     {
       "name": "galvantula",
+      "active": false,
       "id": 596
     },
     {
       "name": "ferroseed",
+      "active": false,
       "id": 597
     },
     {
       "name": "ferrothorn",
+      "active": false,
       "id": 598
     },
     {
       "name": "klink",
+      "active": false,
       "id": 599
     },
     {
       "name": "klang",
+      "active": false,
       "id": 600
     },
     {
       "name": "klinklang",
+      "active": false,
       "id": 601
     },
     {
       "name": "tynamo",
+      "active": false,
       "id": 602
     },
     {
       "name": "eelektrik",
+      "active": false,
       "id": 603
     },
     {
       "name": "eelektross",
+      "active": false,
       "id": 604
     },
     {
       "name": "elgyem",
+      "active": false,
       "id": 605
     },
     {
       "name": "beheeyem",
+      "active": false,
       "id": 606
     },
     {
       "name": "litwick",
+      "active": false,
       "id": 607
     },
     {
       "name": "lampent",
+      "active": false,
       "id": 608
     },
     {
       "name": "chandelure",
+      "active": false,
       "id": 609
     },
     {
       "name": "axew",
+      "active": false,
       "id": 610
     },
     {
       "name": "fraxure",
+      "active": false,
       "id": 611
     },
     {
       "name": "haxorus",
+      "active": false,
       "id": 612
     },
     {
       "name": "cubchoo",
+      "active": false,
       "id": 613
     },
     {
       "name": "beartic",
+      "active": false,
       "id": 614
     },
     {
       "name": "cryogonal",
+      "active": false,
       "id": 615
     },
     {
       "name": "shelmet",
+      "active": false,
       "id": 616
     },
     {
       "name": "accelgor",
+      "active": false,
       "id": 617
     },
     {
       "name": "stunfisk",
+      "active": false,
       "id": 618
     },
     {
       "name": "mienfoo",
+      "active": false,
       "id": 619
     },
     {
       "name": "mienshao",
+      "active": false,
       "id": 620
     },
     {
       "name": "druddigon",
+      "active": false,
       "id": 621
     },
     {
       "name": "golett",
+      "active": false,
       "id": 622
     },
     {
       "name": "golurk",
+      "active": false,
       "id": 623
     },
     {
       "name": "pawniard",
+      "active": false,
       "id": 624
     },
     {
       "name": "bisharp",
+      "active": false,
       "id": 625
     },
     {
       "name": "bouffalant",
+      "active": false,
       "id": 626
     },
     {
       "name": "rufflet",
+      "active": false,
       "id": 627
     },
     {
       "name": "braviary",
+      "active": false,
       "id": 628
     },
     {
       "name": "vullaby",
+      "active": false,
       "id": 629
     },
     {
       "name": "mandibuzz",
+      "active": false,
       "id": 630
     },
     {
       "name": "heatmor",
+      "active": false,
       "id": 631
     },
     {
       "name": "durant",
+      "active": false,
       "id": 632
     },
     {
       "name": "deino",
+      "active": false,
       "id": 633
     },
     {
       "name": "zweilous",
+      "active": false,
       "id": 634
     },
     {
       "name": "hydreigon",
+      "active": false,
       "id": 635
     },
     {
       "name": "larvesta",
+      "active": false,
       "id": 636
     },
     {
       "name": "volcarona",
+      "active": false,
       "id": 637
     },
     {
       "name": "cobalion",
+      "active": false,
       "id": 638
     },
     {
       "name": "terrakion",
+      "active": false,
       "id": 639
     },
     {
       "name": "virizion",
+      "active": false,
       "id": 640
     },
     {
       "name": "tornadus-incarnate",
+      "active": false,
       "id": 641
     },
     {
       "name": "thundurus-incarnate",
+      "active": false,
       "id": 642
     },
     {
       "name": "reshiram",
+      "active": false,
       "id": 643
     },
     {
       "name": "zekrom",
+      "active": false,
       "id": 644
     },
     {
       "name": "landorus-incarnate",
+      "active": false,
       "id": 645
     },
     {
       "name": "kyurem",
+      "active": false,
       "id": 646
     },
     {
       "name": "keldeo-ordinary",
+      "active": false,
       "id": 647
     },
     {
       "name": "meloetta-aria",
+      "active": false,
       "id": 648
     },
     {
       "name": "genesect",
+      "active": false,
       "id": 649
     }
   ],
   "pokemonsSixthGen": [
     {
       "name": "chespin",
+      "active": false,
       "id": 650
     },
     {
       "name": "quilladin",
+      "active": false,
       "id": 651
     },
     {
       "name": "chesnaught",
+      "active": false,
       "id": 652
     },
     {
       "name": "fennekin",
+      "active": false,
       "id": 653
     },
     {
       "name": "braixen",
+      "active": false,
       "id": 654
     },
     {
       "name": "delphox",
+      "active": false,
       "id": 655
     },
     {
       "name": "froakie",
+      "active": false,
       "id": 656
     },
     {
       "name": "frogadier",
+      "active": false,
       "id": 657
     },
     {
       "name": "greninja",
+      "active": false,
       "id": 658
     },
     {
       "name": "bunnelby",
+      "active": false,
       "id": 659
     },
     {
       "name": "diggersby",
+      "active": false,
       "id": 660
     },
     {
       "name": "fletchling",
+      "active": false,
       "id": 661
     },
     {
       "name": "fletchinder",
+      "active": false,
       "id": 662
     },
     {
       "name": "talonflame",
+      "active": false,
       "id": 663
     },
     {
       "name": "scatterbug",
+      "active": false,
       "id": 664
     },
     {
       "name": "spewpa",
+      "active": false,
       "id": 665
     },
     {
       "name": "vivillon",
+      "active": false,
       "id": 666
     },
     {
       "name": "litleo",
+      "active": false,
       "id": 667
     },
     {
       "name": "pyroar",
+      "active": false,
       "id": 668
     },
     {
       "name": "flabebe",
+      "active": false,
       "id": 669
     },
     {
       "name": "floette",
+      "active": false,
       "id": 670
     },
     {
       "name": "florges",
+      "active": false,
       "id": 671
     },
     {
       "name": "skiddo",
+      "active": false,
       "id": 672
     },
     {
       "name": "gogoat",
+      "active": false,
       "id": 673
     },
     {
       "name": "pancham",
+      "active": false,
       "id": 674
     },
     {
       "name": "pangoro",
+      "active": false,
       "id": 675
     },
     {
       "name": "furfrou",
+      "active": false,
       "id": 676
     },
     {
       "name": "espurr",
+      "active": false,
       "id": 677
     },
     {
       "name": "meowstic-male",
+      "active": false,
       "id": 678
     },
     {
       "name": "honedge",
+      "active": false,
       "id": 679
     },
     {
       "name": "doublade",
+      "active": false,
       "id": 680
     },
     {
       "name": "aegislash-shield",
+      "active": false,
       "id": 681
     },
     {
       "name": "spritzee",
+      "active": false,
       "id": 682
     },
     {
       "name": "aromatisse",
+      "active": false,
       "id": 683
     },
     {
       "name": "swirlix",
+      "active": false,
       "id": 684
     },
     {
       "name": "slurpuff",
+      "active": false,
       "id": 685
     },
     {
       "name": "inkay",
+      "active": false,
       "id": 686
     },
     {
       "name": "malamar",
+      "active": false,
       "id": 687
     },
     {
       "name": "binacle",
+      "active": false,
       "id": 688
     },
     {
       "name": "barbaracle",
+      "active": false,
       "id": 689
     },
     {
       "name": "skrelp",
+      "active": false,
       "id": 690
     },
     {
       "name": "dragalge",
+      "active": false,
       "id": 691
     },
     {
       "name": "clauncher",
+      "active": false,
       "id": 692
     },
     {
       "name": "clawitzer",
+      "active": false,
       "id": 693
     },
     {
       "name": "helioptile",
+      "active": false,
       "id": 694
     },
     {
       "name": "heliolisk",
+      "active": false,
       "id": 695
     },
     {
       "name": "tyrunt",
+      "active": false,
       "id": 696
     },
     {
       "name": "tyrantrum",
+      "active": false,
       "id": 697
     },
     {
       "name": "amaura",
+      "active": false,
       "id": 698
     },
     {
       "name": "aurorus",
+      "active": false,
       "id": 699
     },
     {
       "name": "sylveon",
+      "active": false,
       "id": 700
     },
     {
       "name": "hawlucha",
+      "active": false,
       "id": 701
     },
     {
       "name": "dedenne",
+      "active": false,
       "id": 702
     },
     {
       "name": "carbink",
+      "active": false,
       "id": 703
     },
     {
       "name": "goomy",
+      "active": false,
       "id": 704
     },
     {
       "name": "sliggoo",
+      "active": false,
       "id": 705
     },
     {
       "name": "goodra",
+      "active": false,
       "id": 706
     },
     {
       "name": "klefki",
+      "active": false,
       "id": 707
     },
     {
       "name": "phantump",
+      "active": false,
       "id": 708
     },
     {
       "name": "trevenant",
+      "active": false,
       "id": 709
     },
     {
       "name": "pumpkaboo-average",
+      "active": false,
       "id": 710
     },
     {
       "name": "gourgeist-average",
+      "active": false,
       "id": 711
     },
     {
       "name": "bergmite",
+      "active": false,
       "id": 712
     },
     {
       "name": "avalugg",
+      "active": false,
       "id": 713
     },
     {
       "name": "noibat",
+      "active": false,
       "id": 714
     },
     {
       "name": "noivern",
+      "active": false,
       "id": 715
     },
     {
       "name": "xerneas",
+      "active": false,
       "id": 716
     },
     {
       "name": "yveltal",
+      "active": false,
       "id": 717
     },
     {
       "name": "zygarde",
+      "active": false,
       "id": 718
     },
     {
       "name": "diancie",
+      "active": false,
       "id": 719
     },
     {
       "name": "hoopa",
+      "active": false,
       "id": 720
     },
     {
       "name": "volcanion",
+      "active": false,
       "id": 721
     }
   ],
   "pokemonsSeventhGen": [
     {
       "name": "rowlet",
+      "active": false,
       "id": 722
     },
     {
       "name": "dartrix",
+      "active": false,
       "id": 723
     },
     {
       "name": "decidueye",
+      "active": false,
       "id": 724
     },
     {
       "name": "litten",
+      "active": false,
       "id": 725
     },
     {
       "name": "torracat",
+      "active": false,
       "id": 726
     },
     {
       "name": "incineroar",
+      "active": false,
       "id": 727
     },
     {
       "name": "popplio",
+      "active": false,
       "id": 728
     },
     {
       "name": "brionne",
+      "active": false,
       "id": 729
     },
     {
       "name": "primarina",
+      "active": false,
       "id": 730
     },
     {
       "name": "pikipek",
+      "active": false,
       "id": 731
     },
     {
       "name": "trumbeak",
+      "active": false,
       "id": 732
     },
     {
       "name": "toucannon",
+      "active": false,
       "id": 733
     },
     {
       "name": "yungoos",
+      "active": false,
       "id": 734
     },
     {
       "name": "gumshoos",
+      "active": false,
       "id": 735
     },
     {
       "name": "grubbin",
+      "active": false,
       "id": 736
     },
     {
       "name": "charjabug",
+      "active": false,
       "id": 737
     },
     {
       "name": "vikavolt",
+      "active": false,
       "id": 738
     },
     {
       "name": "crabrawler",
+      "active": false,
       "id": 739
     },
     {
       "name": "crabominable",
+      "active": false,
       "id": 740
     },
     {
       "name": "oricorio-baile",
+      "active": false,
       "id": 741
     },
     {
       "name": "cutiefly",
+      "active": false,
       "id": 742
     },
     {
       "name": "ribombee",
+      "active": false,
       "id": 743
     },
     {
       "name": "rockruff",
+      "active": false,
       "id": 744
     },
     {
       "name": "lycanroc-midday",
+      "active": false,
       "id": 745
     },
     {
       "name": "wishiwashi-solo",
+      "active": false,
       "id": 746
     },
     {
       "name": "mareanie",
+      "active": false,
       "id": 747
     },
     {
       "name": "toxapex",
+      "active": false,
       "id": 748
     },
     {
       "name": "mudbray",
+      "active": false,
       "id": 749
     },
     {
       "name": "mudsdale",
+      "active": false,
       "id": 750
     },
     {
       "name": "dewpider",
+      "active": false,
       "id": 751
     },
     {
       "name": "araquanid",
+      "active": false,
       "id": 752
     },
     {
       "name": "fomantis",
+      "active": false,
       "id": 753
     },
     {
       "name": "lurantis",
+      "active": false,
       "id": 754
     },
     {
       "name": "morelull",
+      "active": false,
       "id": 755
     },
     {
       "name": "shiinotic",
+      "active": false,
       "id": 756
     },
     {
       "name": "salandit",
+      "active": false,
       "id": 757
     },
     {
       "name": "salazzle",
+      "active": false,
       "id": 758
     },
     {
       "name": "stufful",
+      "active": false,
       "id": 759
     },
     {
       "name": "bewear",
+      "active": false,
       "id": 760
     },
     {
       "name": "bounsweet",
+      "active": false,
       "id": 761
     },
     {
       "name": "steenee",
+      "active": false,
       "id": 762
     },
     {
       "name": "tsareena",
+      "active": false,
       "id": 763
     },
     {
       "name": "comfey",
+      "active": false,
       "id": 764
     },
     {
       "name": "oranguru",
+      "active": false,
       "id": 765
     },
     {
       "name": "passimian",
+      "active": false,
       "id": 766
     },
     {
       "name": "wimpod",
+      "active": false,
       "id": 767
     },
     {
       "name": "golisopod",
+      "active": false,
       "id": 768
     },
     {
       "name": "sandygast",
+      "active": false,
       "id": 769
     },
     {
       "name": "palossand",
+      "active": false,
       "id": 770
     },
     {
       "name": "pyukumuku",
+      "active": false,
       "id": 771
     },
     {
       "name": "type-null",
+      "active": false,
       "id": 772
     },
     {
       "name": "silvally",
+      "active": false,
       "id": 773
     },
     {
       "name": "minior-red-meteor",
+      "active": false,
       "id": 774
     },
     {
       "name": "komala",
+      "active": false,
       "id": 775
     },
     {
       "name": "turtonator",
+      "active": false,
       "id": 776
     },
     {
       "name": "togedemaru",
+      "active": false,
       "id": 777
     },
     {
       "name": "mimikyu-disguised",
+      "active": false,
       "id": 778
     },
     {
       "name": "bruxish",
+      "active": false,
       "id": 779
     },
     {
       "name": "drampa",
+      "active": false,
       "id": 780
     },
     {
       "name": "dhelmise",
+      "active": false,
       "id": 781
     },
     {
       "name": "jangmo-o",
+      "active": false,
       "id": 782
     },
     {
       "name": "hakamo-o",
+      "active": false,
       "id": 783
     },
     {
       "name": "kommo-o",
+      "active": false,
       "id": 784
     },
     {
       "name": "tapu-koko",
+      "active": false,
       "id": 785
     },
     {
       "name": "tapu-lele",
+      "active": false,
       "id": 786
     },
     {
       "name": "tapu-bulu",
+      "active": false,
       "id": 787
     },
     {
       "name": "tapu-fini",
+      "active": false,
       "id": 788
     },
     {
       "name": "cosmog",
+      "active": false,
       "id": 789
     },
     {
       "name": "cosmoem",
+      "active": false,
       "id": 790
     },
     {
       "name": "solgaleo",
+      "active": false,
       "id": 791
     },
     {
       "name": "lunala",
+      "active": false,
       "id": 792
     },
     {
       "name": "nihilego",
+      "active": false,
       "id": 793
     },
     {
       "name": "buzzwole",
+      "active": false,
       "id": 794
     },
     {
       "name": "pheromosa",
+      "active": false,
       "id": 795
     },
     {
       "name": "xurkitree",
+      "active": false,
       "id": 796
     },
     {
       "name": "celesteela",
+      "active": false,
       "id": 797
     },
     {
       "name": "kartana",
+      "active": false,
       "id": 798
     },
     {
       "name": "guzzlord",
+      "active": false,
       "id": 799
     },
     {
       "name": "necrozma",
+      "active": false,
       "id": 800
     },
     {
       "name": "magearna",
+      "active": false,
       "id": 801
     },
     {
       "name": "marshadow",
+      "active": false,
       "id": 802
     },
     {
       "name": "poipole",
+      "active": false,
       "id": 803
     },
     {
       "name": "naganadel",
+      "active": false,
       "id": 804
     },
     {
       "name": "stakataka",
+      "active": false,
       "id": 805
     },
     {
       "name": "blacephalon",
+      "active": false,
       "id": 806
     },
     {
       "name": "zeraora",
+      "active": false,
       "id": 807
     },
     {
       "name": "meltan",
+      "active": false,
       "id": 808
     },
     {
       "name": "melmetal",
+      "active": false,
       "id": 809
     }
   ],
   "pokemonsEighthGen": [
     {
       "name": "grookey",
+      "active": false,
       "id": 810
     },
     {
       "name": "thwackey",
+      "active": false,
       "id": 811
     },
     {
       "name": "rillaboom",
+      "active": false,
       "id": 812
     },
     {
       "name": "scorbunny",
+      "active": false,
       "id": 813
     },
     {
       "name": "raboot",
+      "active": false,
       "id": 814
     },
     {
       "name": "cinderace",
+      "active": false,
       "id": 815
     },
     {
       "name": "sobble",
+      "active": false,
       "id": 816
     },
     {
       "name": "drizzile",
+      "active": false,
       "id": 817
     },
     {
       "name": "inteleon",
+      "active": false,
       "id": 818
     },
     {
       "name": "skwovet",
+      "active": false,
       "id": 819
     },
     {
       "name": "greedent",
+      "active": false,
       "id": 820
     },
     {
       "name": "rookidee",
+      "active": false,
       "id": 821
     },
     {
       "name": "corvisquire",
+      "active": false,
       "id": 822
     },
     {
       "name": "corviknight",
+      "active": false,
       "id": 823
     },
     {
       "name": "blipbug",
+      "active": false,
       "id": 824
     },
     {
       "name": "dottler",
+      "active": false,
       "id": 825
     },
     {
       "name": "orbeetle",
+      "active": false,
       "id": 826
     },
     {
       "name": "nickit",
+      "active": false,
       "id": 827
     },
     {
       "name": "thievul",
+      "active": false,
       "id": 828
     },
     {
       "name": "gossifleur",
+      "active": false,
       "id": 829
     },
     {
       "name": "eldegoss",
+      "active": false,
       "id": 830
     },
     {
       "name": "wooloo",
+      "active": false,
       "id": 831
     },
     {
       "name": "dubwool",
+      "active": false,
       "id": 832
     },
     {
       "name": "chewtle",
+      "active": false,
       "id": 833
     },
     {
       "name": "drednaw",
+      "active": false,
       "id": 834
     },
     {
       "name": "yamper",
+      "active": false,
       "id": 835
     },
     {
       "name": "boltund",
+      "active": false,
       "id": 836
     },
     {
       "name": "rolycoly",
+      "active": false,
       "id": 837
     },
     {
       "name": "carkol",
+      "active": false,
       "id": 838
     },
     {
       "name": "coalossal",
+      "active": false,
       "id": 839
     },
     {
       "name": "applin",
+      "active": false,
       "id": 840
     },
     {
       "name": "flapple",
+      "active": false,
       "id": 841
     },
     {
       "name": "appletun",
+      "active": false,
       "id": 842
     },
     {
       "name": "silicobra",
+      "active": false,
       "id": 843
     },
     {
       "name": "sandaconda",
+      "active": false,
       "id": 844
     },
     {
       "name": "cramorant",
+      "active": false,
       "id": 845
     },
     {
       "name": "arrokuda",
+      "active": false,
       "id": 846
     },
     {
       "name": "barraskewda",
+      "active": false,
       "id": 847
     },
     {
       "name": "toxel",
+      "active": false,
       "id": 848
     },
     {
       "name": "toxtricity-amped",
+      "active": false,
       "id": 849
     },
     {
       "name": "sizzlipede",
+      "active": false,
       "id": 850
     },
     {
       "name": "centiskorch",
+      "active": false,
       "id": 851
     },
     {
       "name": "clobbopus",
+      "active": false,
       "id": 852
     },
     {
       "name": "grapploct",
+      "active": false,
       "id": 853
     },
     {
       "name": "sinistea",
+      "active": false,
       "id": 854
     },
     {
       "name": "polteageist",
+      "active": false,
       "id": 855
     },
     {
       "name": "hatenna",
+      "active": false,
       "id": 856
     },
     {
       "name": "hattrem",
+      "active": false,
       "id": 857
     },
     {
       "name": "hatterene",
+      "active": false,
       "id": 858
     },
     {
       "name": "impidimp",
+      "active": false,
       "id": 859
     },
     {
       "name": "morgrem",
+      "active": false,
       "id": 860
     },
     {
       "name": "grimmsnarl",
+      "active": false,
       "id": 861
     },
     {
       "name": "obstagoon",
+      "active": false,
       "id": 862
     },
     {
       "name": "perrserker",
+      "active": false,
       "id": 863
     },
     {
       "name": "cursola",
+      "active": false,
       "id": 864
     },
     {
       "name": "sirfetchd",
+      "active": false,
       "id": 865
     },
     {
       "name": "mr-rime",
+      "active": false,
       "id": 866
     },
     {
       "name": "runerigus",
+      "active": false,
       "id": 867
     },
     {
       "name": "milcery",
+      "active": false,
       "id": 868
     },
     {
       "name": "alcremie",
+      "active": false,
       "id": 869
     },
     {
       "name": "falinks",
+      "active": false,
       "id": 870
     },
     {
       "name": "pincurchin",
+      "active": false,
       "id": 871
     },
     {
       "name": "snom",
+      "active": false,
       "id": 872
     },
     {
       "name": "frosmoth",
+      "active": false,
       "id": 873
     },
     {
       "name": "stonjourner",
+      "active": false,
       "id": 874
     },
     {
       "name": "eiscue-ice",
+      "active": false,
       "id": 875
     },
     {
       "name": "indeedee-male",
+      "active": false,
       "id": 876
     },
     {
       "name": "morpeko",
+      "active": false,
       "id": 877
     },
     {
       "name": "cufant",
+      "active": false,
       "id": 878
     },
     {
       "name": "copperajah",
+      "active": false,
       "id": 879
     },
     {
       "name": "dracozolt",
+      "active": false,
       "id": 880
     },
     {
       "name": "arctozolt",
+      "active": false,
       "id": 881
     },
     {
       "name": "dracovish",
+      "active": false,
       "id": 882
     },
     {
       "name": "arctovish",
+      "active": false,
       "id": 883
     },
     {
       "name": "duraludon",
+      "active": false,
       "id": 884
     },
     {
       "name": "dreepy",
+      "active": false,
       "id": 885
     },
     {
       "name": "drakloak",
+      "active": false,
       "id": 886
     },
     {
       "name": "dragapult",
+      "active": false,
       "id": 887
     },
     {
       "name": "zacian-hero",
+      "active": false,
       "id": 888
     },
     {
       "name": "zamazenta-hero",
+      "active": false,
       "id": 889
     },
     {
       "name": "eternatus",
+      "active": false,
       "id": 890
     },
     {
       "name": "kubfu",
+      "active": false,
       "id": 891
     },
     {
       "name": "urshifu-single-strike",
+      "active": false,
       "id": 892
     },
     {
       "name": "zarude",
+      "active": false,
       "id": 893
     }
   ]
