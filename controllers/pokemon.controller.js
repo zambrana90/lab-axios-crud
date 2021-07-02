@@ -26,6 +26,57 @@ module.exports.firstgeneration = (req, res, next) => {
     .catch((e) => next(e));
 };
 
+module.exports.createPokemon = (req, res, next) => {
+  res.render("new-pokemon");
+};
+
+module.exports.doCreatePokemon = (req, res, next) => {
+  if (!req.body.name || req.body.name.length < 2) {
+    res.render("new-pokemon", {
+      pokemon: { name: req.body.name },
+      error: "Introduce a valid name",
+    });
+  } else {
+    http
+      .post("/pokemonsFirstGen", {
+        name: req.body.name,
+      })
+      .then(() => {
+        res.redirect("/firstgeneration");
+      })
+      .catch((error) => next(error));
+  }
+};
+
+module.exports.editPokemon = (req, res, next) => {
+  const { id } = req.params;
+  http
+    .get(`/pokemonsFirstGen/${id}`)
+    .then((response) => {
+      res.render("edit-pokemon", { pokemon: response.data });
+    })
+    .catch((error) => next(error));
+};
+
+module.exports.doEditPokemon = (req, res, next) => {
+  if (!req.body.name || req.body.name.length < 2) {
+    res.render("edit-pokemon", {
+      pokemon: { name: req.body.name },
+      error: "Introduce a valid name",
+    });
+  } else {
+    const { id } = req.params;
+    http
+      .patch(`/pokemonsFirstGen/${id}`, {
+        name: req.body.name,
+      })
+      .then(() => {
+        res.redirect("/firstgeneration");
+      })
+      .catch((error) => next(error));
+  }
+};
+
 module.exports.secondgeneration = (req, res, next) => {
   http
     .get("/pokemonsSecondGen")
@@ -135,6 +186,7 @@ module.exports.getPokemonFourthGen = (req, res, next) => {
     })
     .catch((error) => next(error));
 };
+
 module.exports.getPokemonFifthGen = (req, res, next) => {
   const id = req.params.id;
   http

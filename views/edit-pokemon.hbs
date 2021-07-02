@@ -1,6 +1,6 @@
-<h1 class="pt-5" style="color:white">Create a Pokemon</h1>
+<h1 class="pt-5" style="color:white">Edit a Pokemon</h1>
 
-<form action="/firstgeneration" method="POST">
+<form action="/firstgeneration/{{pokemon.id}}/edit" method="POST">
   <div class="mb-3">
     <label for="name" class="form-label" style="color:white">Name of the Pokemon</label>
     <input type="text" value="{{pokemon.name}}" class="form-control {{#if error}}is-invalid{{/if}}" id="name" name="name">

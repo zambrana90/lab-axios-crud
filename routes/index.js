@@ -5,6 +5,13 @@ const pokemonController = require("../controllers/pokemon.controller");
 router.get("/", pokemonController.home);
 
 router.get("/firstgeneration", pokemonController.firstgeneration);
+
+router.post('/firstgeneration', pokemonController.doCreatePokemon);
+router.get('/firstgeneration/new', pokemonController.createPokemon);
+
+router.post('/firstgeneration/:id/edit', pokemonController.doEditPokemon);
+router.get('/firstgeneration/:id/edit', pokemonController.editPokemon);
+
 router.get("/secondgeneration", pokemonController.secondgeneration);
 router.get("/thirdgeneration", pokemonController.thirdgeneration);
 router.get("/fourthgeneration", pokemonController.fourthgeneration);
